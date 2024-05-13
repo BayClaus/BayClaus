@@ -3,7 +3,7 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCSnkTSuw1fMa0uBfTHiDU7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsnktsuw1fma0ubfthidu7a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSnkTSuw1fMa0uBfTHiDU7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsnktsuw1fma0ubfthidu7a" height="30" width="40" /></a> <a href="https://codepen.io/@bayclaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bayclaus" height="30" width="40" /></a>
 </p>
 <h3 align="left">Contact:</h3>
 <a href="https://instagram.com/beyefendiclaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyefendiclaus" height="30" width="40" /></a>
