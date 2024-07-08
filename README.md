@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bay Claus</h1>
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning Java & C++
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
