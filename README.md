@@ -14,6 +14,9 @@
   <a href="https://www.python.org">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg'width=45>
   </a>
+  <a href="https://kotlinlang.org/">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg'width=45>
+  </a>
 </ul>
 <h3 align ="left">Kullandığım Tarayıcı:</h3>
 <ul>
@@ -30,5 +33,15 @@
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-plain.svg'width=45>
   </a>
 </ul>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<h3 align="left">IDE:</h3>
+<ul>
+  <a href="https://code.visualstudio.com/download">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" width=45>
+  </a>
+  <a href="https://www.eclipse.org/downloads/">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-plain.svg'width=45>
+  </a>
+  <a href="">
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg'width=45>
+  </a>
+</ul>
